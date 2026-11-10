@@ -1,4 +1,3 @@
-# 공개 주소: https://kubong007-dotco.github.io/homepage/
 User-agent: *
 Allow: /
 

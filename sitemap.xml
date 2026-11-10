@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 배포 후 입력: YOUR-DOMAIN.com 을 실제 홈페이지 주소로 바꿔 주세요 -->
+<!-- 공개 주소: https://kubong007-dotco.github.io/homepage/ (주소가 바뀌면 이 주소를 모두 바꿔 주세요) -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.com/</loc><lastmod>2026-11-10</lastmod><priority>1.0</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/services.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/blog-setting.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/blog-consulting.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/blog-marketing.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/faq.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/about.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/expert.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/contact.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/</loc><lastmod>2026-11-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/services.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/blog-setting.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/blog-consulting.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/blog-marketing.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/faq.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/about.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/expert.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+  <url><loc>https://kubong007-dotco.github.io/homepage/contact.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
 </urlset>

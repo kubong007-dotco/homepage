@@ -1,10 +1,10 @@
 /* =========================================================
    담결한 홈페이지 공통 스크립트
    - 홈페이지 공개 주소는 아래 SITE_URL 한 곳에서 바꿉니다.
-     (배포 후 입력: HTML 파일 안의 "https://YOUR-DOMAIN.com" 도
+     (배포 후 입력: HTML 파일 안의 "https://kubong007-dotco.github.io/homepage" 도
       VS Code '폴더에서 바꾸기'로 한 번에 바꿔 주세요. sitemap.xml, robots.txt 포함)
    ========================================================= */
-var SITE_URL = "https://YOUR-DOMAIN.com"; // [배포 후 입력]
+var SITE_URL = "https://kubong007-dotco.github.io/homepage";
 
 (function () {
   var doc = document.documentElement;

@@ -1,0 +1,5 @@
+# 배포 후 입력: YOUR-DOMAIN.com 을 실제 홈페이지 주소로 바꿔 주세요
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
